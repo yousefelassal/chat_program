@@ -28,6 +28,6 @@ _login window will be displayed, type in your name then press login_
 
 ![login window](login window.jpg)
 
-##Screenshot  
+## Screenshot  
 
 ![chatroom window](chatroom window.jpg)
