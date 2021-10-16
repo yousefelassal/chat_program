@@ -26,8 +26,8 @@ python client_final.py
 ```
 _login window will be displayed, type in your name then press login_ 
 
-![login window](login window.jpg)
+![login window](https://github.com/yousefelassal/chat_program/blob/da952d181496f2fa330d831b77cdbe544dc59ec3/login%20window.jpg)
 
 ## Screenshot  
 
-![chatroom window](chatroom window.jpg)
+![chatroom window](https://github.com/yousefelassal/chat_program/blob/da952d181496f2fa330d831b77cdbe544dc59ec3/chatroom%20window.jpg)
