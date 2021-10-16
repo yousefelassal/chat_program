@@ -5,6 +5,7 @@ with socket and threading to maintain the networking
 ## Requirments
 - Python 3.x (recommended) from [here](http://www.pygame.org/download.shtml)
 - Tkinter  
+
 _Tkinter can be installed using pip_  
 run in the command propmt
 ```
